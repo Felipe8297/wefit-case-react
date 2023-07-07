@@ -15,11 +15,11 @@
 ## Tecnologias Utilizadas
 
 - [Next.js](https://nextjs.org/)
+- [Stitches](https://stitches.dev/)
 - [Axios](https://axios-http.com/)
-- [ESLint](https://eslint.org/)
 - [immer](https://github.com/immerjs/immer#readme)
 - [JSON Server](https://github.com/typicode/json-server)
-- [Stitches](https://stitches.dev/)
+- [ESLint](https://eslint.org/)
 - [use-context-selector](https://github.com/dai-shi/use-context-selector#readme)
 - [@rocketseat/eslint-config](https://github.com/rocketseat/eslint-config-rocketseat#readme)
 
