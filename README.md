@@ -1,6 +1,4 @@
-# WeFit Test React
-
----
+# WeFit Case React
 
 <h3 align="center">
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
